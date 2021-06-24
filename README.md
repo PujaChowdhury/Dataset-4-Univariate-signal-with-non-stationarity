@@ -77,14 +77,14 @@ Puja Chowdhury, Austin Downey, Jason D. Bakos and Philip Conrad, “Dataset-4-un
 Apr. 2021. [Online]. Available: https://github.com/High-Rate-SHM-Working-Group/
 Dataset-4-Univariate-signal-with-non-stationarity
 
-@Misc{Chowdhury2021Dataset4Univariate,
-  author = {Puja Chowdhury and Austin Downey and Jason D. Bakos and Philip Conrad},
-  month  = apr,
-  title  = {Dataset-4-Univariate-signal-with-non-stationarity},
-  year   = {2021},
-  groups = {High-Rate-SHM-Working-Group},
-  url    = {https://github.com/High-Rate-SHM-Working-Group/Dataset-4-Univariate-signal-with-non-stationarity},
-}
+@Misc{Chowdhury2021Dataset4Univariate,  
+  author = {Puja Chowdhury and Austin Downey and Jason D. Bakos and Philip Conrad},  
+  month  = apr,  
+  title  = {Dataset-4-Univariate-signal-with-non-stationarity},  
+  year   = {2021},  
+  groups = {High-Rate-SHM-Working-Group},  
+  url    = {https://github.com/High-Rate-SHM-Working-Group/Dataset-4-Univariate-signal-with-non-stationarity},  
+}  
 
 
 
