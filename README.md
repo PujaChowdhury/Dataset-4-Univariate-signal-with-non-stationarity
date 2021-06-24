@@ -69,9 +69,25 @@ Data set 3: Two sine wave signals are concatenated together at _t=0_ where a 50%
 </tbody>
 </table>
 
-
 [The PDF Version](data_description.pdf)
-...
+
+Cite this data as:
+
+Puja Chowdhury, Austin Downey, Jason D. Bakos and Philip Conrad, “Dataset-4-univariate-signal-with-nonstationarity,”
+Apr. 2021. [Online]. Available: https://github.com/High-Rate-SHM-Working-Group/
+Dataset-4-Univariate-signal-with-non-stationarity
+
+@Misc{Chowdhury2021Dataset4Univariate,
+  author = {Puja Chowdhury and Austin Downey and Jason D. Bakos and Philip Conrad},
+  month  = apr,
+  title  = {Dataset-4-Univariate-signal-with-non-stationarity},
+  year   = {2021},
+  groups = {High-Rate-SHM-Working-Group},
+  url    = {https://github.com/High-Rate-SHM-Working-Group/Dataset-4-Univariate-signal-with-non-stationarity},
+}
+
+
+
 
 
 
