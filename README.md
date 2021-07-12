@@ -17,7 +17,7 @@ Figure 2: The full 16-second test is shown in the upper plot while the inset sho
 
 **DATASET**
 
-Original sampling point of the data is 51200Hz. All three datasets contained undersampled data also.
+Original sampling point of the data is 51200Hz. All three tests contained undersampled data also.
 
 Test 1: One sine wave signal built from 100, 120, and 150 Hz frequencies with no nonstationary. To achieve this, an input signal of 0.25 V is used.
 
