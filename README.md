@@ -9,7 +9,7 @@ The experimental setup is shown in Figure 1. For the experiment purpose, a steel
 
 Figure 1: Experimental setup of a cantilever beam with key components and data acquisition setup.
 
-Figure 2 (data set 3 with sampling rate 51200 Hz) reports the structure&#39;s measured acceleration response for a composite sinusoidal input from the shaker. In this work, the composite signal is made up of 100, 120, and 150 Hz sinusoidal signals. Two sine wave signals are concatenated together at _t=0_ where a 50% nonstationary is present. The first half of the composite signal is built from 100, 120, and 150 Hz frequencies while the second half signal consists of 100, 120 Hz frequencies. A 50% nonstationary event is introduced at 0 s, as measured by a 50% increase in the standard deviation of the signal. To achieve this, an input signal of 0.25 V is used before _t=0_ while a signal of 0.375 V is used after _t=0_. The entire 16-second test is shown in Figure 2 while the expanded view shows the 1 s around the nonstationary.
+Figure 2 (Test 3 with sampling rate 51200 Hz) reports the structure&#39;s measured acceleration response for a composite sinusoidal input from the shaker. In this work, the composite signal is made up of 100, 120, and 150 Hz sinusoidal signals. Two sine wave signals are concatenated together at _t=0_ where a 50% nonstationary is present. The first half of the composite signal is built from 100, 120, and 150 Hz frequencies while the second half signal consists of 100, 120 Hz frequencies. A 50% nonstationary event is introduced at 0 s, as measured by a 50% increase in the standard deviation of the signal. To achieve this, an input signal of 0.25 V is used before _t=0_ while a signal of 0.375 V is used after _t=0_. The entire 16-second test is shown in Figure 2 while the expanded view shows the 1 s around the nonstationary.
 
 ![plot](./images/original_data_time_series.png)
 
@@ -19,11 +19,11 @@ Figure 2: The full 16-second test is shown in the upper plot while the inset sho
 
 Original sampling point of the data is 51200Hz. All three datasets contained undersampled data also.
 
-Data set 1: One sine wave signal built from 100, 120, and 150 Hz frequencies with no nonstationary. To achieve this, an input signal of 0.25 V is used.
+Test 1: One sine wave signal built from 100, 120, and 150 Hz frequencies with no nonstationary. To achieve this, an input signal of 0.25 V is used.
 
-Data set 2: Two sine wave signals are concatenated together at _t=0_ where a 50% nonstationary is present. The first half of the composite signal is built from 100, 120, and 150 Hz frequencies while the second half signal consists of 100, 120 Hz, and 150 frequencies. To achieve this, an input signal of 0.25 V is used before _t=0_ while a signal of 0.375 V is used after _t=0_.
+Test 2: Two sine wave signals are concatenated together at _t=0_ where a 50% nonstationary is present. The first half of the composite signal is built from 100, 120, and 150 Hz frequencies while the second half signal consists of 100, 120 Hz, and 150 frequencies. To achieve this, an input signal of 0.25 V is used before _t=0_ while a signal of 0.375 V is used after _t=0_.
 
-Data set 3: Two sine wave signals are concatenated together at _t=0_ where a 50% nonstationary is present. The first half of the composite signal is built from 100, 120, and 150 Hz frequencies while the second half signal consists of 100, 120 Hz frequencies. To achieve this, an input signal of 0.25 V is used before _t=0_ while a signal of 0.375 V is used after _t=0_.
+Test 3: Two sine wave signals are concatenated together at _t=0_ where a 50% nonstationary is present. The first half of the composite signal is built from 100, 120, and 150 Hz frequencies while the second half signal consists of 100, 120 Hz frequencies. To achieve this, an input signal of 0.25 V is used before _t=0_ while a signal of 0.375 V is used after _t=0_.
 
 
 <table class="tg">
