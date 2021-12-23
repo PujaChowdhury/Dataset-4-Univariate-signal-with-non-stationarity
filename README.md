@@ -71,8 +71,7 @@ Original sampling point of the data is 51200Hz. All three tests contain undersam
 Cite this data as:
 
 Puja Chowdhury, Austin Downey, Jason D. Bakos and Philip Conrad, “Dataset-4-univariate-signal-with-nonstationarity,”
-Apr. 2021. [Online]. Available: https://github.com/High-Rate-SHM-Working-Group/
-Dataset-4-Univariate-signal-with-non-stationarity
+Apr. 2021. [Online]. Available: https://github.com/High-Rate-SHM-Working-Group/Dataset-4-Univariate-signal-with-non-stationarity
 
 @Misc{Chowdhury2021Dataset4Univariate,  
   author = {Puja Chowdhury and Austin Downey and Jason D. Bakos and Philip Conrad},  
