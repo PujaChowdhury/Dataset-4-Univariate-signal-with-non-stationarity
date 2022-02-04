@@ -21,29 +21,29 @@ Table: Proposed tests
 
 ![plot](./images/test_1.png)
 
-Figure 3: test 1.
+Figure 1: test 1.
 
 ![plot](./images/test_2.png)
 
-Figure 4: test 2.
+Figure 2: test 2.
 
 ![plot](./images/test_3.png)
 
-Figure 5: test 3.
+Figure 3: test 3.
 
 ![plot](./images/test_4.png)
 
-Figure 6: test 4.
+Figure 4: test 4.
 
 ![plot](./images/test_5.png)
 
-Figure 7: test 5.
+Figure 5: test 5.
 
 ![plot](./images/test_6.png)
 
-Figure 8: test 6.
+Figure 6: test 6.
 
 ![plot](./images/test_7.png)
 
-Figure 9: test 7.
+Figure 7: test 7.
 
