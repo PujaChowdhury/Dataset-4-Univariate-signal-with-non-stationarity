@@ -87,7 +87,7 @@ Each test explanation is given below:
 
 Table: Proposed tests 
 
-![plot](./images/proposed_ tests.png)
+![plot](./images/proposed_tests.png)
 
 
 ![plot](./images/test_1.png)
