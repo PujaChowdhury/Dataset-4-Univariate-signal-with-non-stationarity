@@ -81,7 +81,8 @@ The whole setup is same as Data I.
 
 **DATASET**
 
-sample rate for each test: 50,000 S/s.
+Sample rate for each test: 50,000 S/s.
+
 Each test explanation is given below:
 
 
