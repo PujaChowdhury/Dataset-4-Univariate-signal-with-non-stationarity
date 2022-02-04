@@ -89,27 +89,21 @@ Each test explanation is given below:
 ![plot](./images/proposed tests.png)
 
 Figure 1: Experimental setup of a cantilever beam with key components and data acquisition setup.
-
 ![plot](./images/test 1.png)
 
 Figure 1: Experimental setup of a cantilever beam with key components and data acquisition setup.
-
 ![plot](./images/test 2.png)
 
 Figure 1: Experimental setup of a cantilever beam with key components and data acquisition setup.
-
 ![plot](./images/test 3.png)
 
 Figure 1: Experimental setup of a cantilever beam with key components and data acquisition setup.
-
 ![plot](./images/test 4.png)
 
 Figure 1: Experimental setup of a cantilever beam with key components and data acquisition setup.
-
 ![plot](./images/test 5.png)
 
 Figure 1: Experimental setup of a cantilever beam with key components and data acquisition setup.
-
 ![plot](./images/test 6.png)
 
 Figure 1: Experimental setup of a cantilever beam with key components and data acquisition setup.
