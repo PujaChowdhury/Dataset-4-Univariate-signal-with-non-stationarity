@@ -88,11 +88,14 @@ Apr. 2021. [Online]. Available: https://github.com/High-Rate-SHM-Working-Group/D
 
 * [Data II](data_II)
 **TEST BENCH**
-The whole setup is same as DATA I.
-**DATASET**
+The whole setup is same as Data I.
 
+
+**DATASET**
 sample rate for each test: 50,000 S/s.
 Each test explanation is given below:
+
+
 ![plot](./images/proposed tests.PNG)
 ![plot](./images/test 1.PNG)
 ![plot](./images/test 2.PNG)
