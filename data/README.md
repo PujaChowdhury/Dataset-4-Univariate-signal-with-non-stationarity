@@ -86,29 +86,29 @@ Sample rate for each test: 50,000 S/s.
 Each test explanation is given below:
 
 
-![plot](./images/proposed tests.png)
+![plot](./images/proposed_tests.png)
 
 Figure 1: Experimental setup of a cantilever beam with key components and data acquisition setup.
-![plot](./images/test 1.png)
+![plot](./images/test_1.png)
 
 Figure 1: Experimental setup of a cantilever beam with key components and data acquisition setup.
-![plot](./images/test 2.png)
+![plot](./images/test_2.png)
 
 Figure 1: Experimental setup of a cantilever beam with key components and data acquisition setup.
-![plot](./images/test 3.png)
+![plot](./images/test_3.png)
 
 Figure 1: Experimental setup of a cantilever beam with key components and data acquisition setup.
-![plot](./images/test 4.png)
+![plot](./images/test_4.png)
 
 Figure 1: Experimental setup of a cantilever beam with key components and data acquisition setup.
-![plot](./images/test 5.png)
+![plot](./images/test_5.png)
 
 Figure 1: Experimental setup of a cantilever beam with key components and data acquisition setup.
-![plot](./images/testbench_final.png)
+![plot](./images/test_6.png)
 
 Figure 1: Experimental setup of a cantilever beam with key components and data acquisition setup.
 
-![plot](./images/test 7.png)
+![plot](./images/test_7.png)
 
 Figure 1: Experimental setup of a cantilever beam with key components and data acquisition setup.
 
