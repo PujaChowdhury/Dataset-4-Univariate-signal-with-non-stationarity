@@ -104,7 +104,7 @@ Figure 1: Experimental setup of a cantilever beam with key components and data a
 ![plot](./images/test 5.png)
 
 Figure 1: Experimental setup of a cantilever beam with key components and data acquisition setup.
-![plot](./images/test 6.png)
+![plot](./images/testbench_final.png)
 
 Figure 1: Experimental setup of a cantilever beam with key components and data acquisition setup.
 
