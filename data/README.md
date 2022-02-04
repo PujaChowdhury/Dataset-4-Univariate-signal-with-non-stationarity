@@ -85,8 +85,9 @@ Sample rate for each test: 50,000 S/s.
 
 Each test explanation is given below:
 
-Table: Proposedtests 
-![plot](./images/proposed_tests.png)
+Table: Proposed tests 
+
+![plot](./images/proposed_ tests.png)
 
 
 ![plot](./images/test_1.png)
