@@ -10,7 +10,7 @@
 
 ## Mode Shapes
 
-![plot](Mode_1.png)
+![plot](Mode_1.PNG)
 
 
 
