@@ -1,7 +1,9 @@
 # Univariate-signal-with-non-stationarity
-univariate signal with varying levels of non-stationarities
+Univariate signal with varying levels of non-stationarities
 
-**TEST BENCH &amp; TRAINING DATA**
+
+## TEST BENCH &amp; TRAINING DATA
+
 
 The experimental setup is shown in Figure 1. For the experiment purpose, a steel cantilever beam structure of 759x 50.66 x 5.14 mm is used and a single Integral Electronics Piezoelectric (IEPE) accelerometer (model J352C33 manufactured by PCB Piezotronics) is mounted close to the edge of the beam structure. This accelerometer has a frequency range of 0.5 Hz to 9k Hz with a sensitivity of 100 mV/g. The sensor data is digitized using a 24-bit NI-9234 IEPE signal conditioner manufactured by National Instruments. The beam is excited by an electromagnetic shaker (model V203R manufactured by LDS), with a useful frequency range of 5-13000Hz and a peak sine force of 17.8N, and is driven by a power amplifier (model PA25E-CE manufactured by LDS). A 45 N load cell (model MLP-10 manufactured by Transducer Techniques) is mounted in-between the shaker and beam structure. A 24-bit bridge input signal conditioner (NI-9237 manufactured by National Instruments) is used to acquire the load-cell data. The experiment is run through a control computer with a Virtual Instrument written in LabVIEW.
 
@@ -15,7 +17,7 @@ Figure 2 (Test 3 with sampling rate 51200 Hz) reports the structure&#39;s measur
 
 Figure 2: The full 16-second test is shown in the upper plot while the inset shows the 1 second around the non-stationarity.
 
-**DATASET**
+## DATASET
 
 Original sampling point of the data is 51200Hz. All three tests contain undersampled versions of the data.
 
@@ -66,13 +68,14 @@ Original sampling point of the data is 51200Hz. All three tests contain undersam
 </tbody>
 </table>
 
+[The PDF Version of this section](data_description.pdf)
 
-**MODAL ANALYSIS**
+## [MODAL ANALYSIS](modal_analysis)
 
 
 
 
-[The PDF Version](data_description.pdf)
+
 
 
 
