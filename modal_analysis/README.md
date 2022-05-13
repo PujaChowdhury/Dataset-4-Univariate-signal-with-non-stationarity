@@ -6,7 +6,7 @@
 
 
 1. FFT data (Impulse_test.lvm)
-2. code ()
+2. labVIEW code (mode_natural_freq_check.vi)
 
 
 ## Mode Shapes
