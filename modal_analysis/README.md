@@ -2,37 +2,29 @@
 
 
 
-## Frequency Response
-
-
-1. FFT data (Impulse_test.lvm)
+## Description 
+1. data (FFT_data.lvm,timeseries_data.lvm)
 2. labVIEW code (mode_natural_freq_check.vi)
+3. python code (plot_Experiment_output.py)
+4. inkscape code (naturalfreq.svg)
+
 
 
 ## Mode Shapes
-1. Full FFT of impulse test of beam
+1. FFT of impulse test of beam
+2. mode 1: natural frequency is 6.62 Hz
+3. mode 2: natural frequency is 41.4 Hz
+4. mode 3: natural frequency is 120 Hz
 
-![plot](FFT.png)
-![plot](FFT_log.png)
-
-## mode 1
-1. natural frequency is 6.64 Hz
-
-![plot](natural_freq_mode1.png)
-![plot](natural_freq_mode1_log.png)
+![plot](natural_freq.png)
 
 
-## mode 2
-1. natural frequency is 41.34 Hz
+## time series data
+![plot](beamdata.png)
 
-![plot](natural_freq_mode2.png)
-![plot](natural_freq_mode2_log.png)
 
-## mode 3
-1. natural frequency is 117.5 Hz
 
-![plot](natural_freq_mode3.png)
-![plot](natural_freq_mode3_log.png)
+
 
 
 
