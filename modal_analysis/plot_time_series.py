@@ -15,12 +15,13 @@ import scipy as sp
 from scipy import fftpack, signal # have to add 
 import matplotlib as mpl
 import matplotlib.pyplot as plt
+from scipy.fft import fft, fftfreq
 
 plt.close('all')
 
 
 #%% Load and plot data
-D = np.loadtxt('Impulse_test.lvm',skiprows=23)
+D = np.loadtxt('data/timeseries_data.lvm',skiprows=23)
 
 tt = D[:,0]
 dd = D[:,1]
@@ -33,11 +34,23 @@ plt.ylabel('acceleration (ms$^2$)')
 plt.title('beam data')
 plt.xlim([-0.1,45])
 plt.legend(framealpha=1,loc=0)
-plt.tight_layout()
-plt.savefig('plot.pdf')
-plt.savefig('plot_1.png')
-plt.savefig('plot_2.png',dpi=300)
 
+
+
+N = tt.shape[0]
+T = tt[1]-tt[0]
+x = np.linspace(0.0, N*T, N, endpoint=False)
+y_fft = fft(dd)
+yf = 2.0/N * np.abs(y_fft[0:N//2])
+xf = fftfreq(N, T)[:N//2]
+
+plt.figure()
+plt.semilogy(xf, yf)
+plt.grid()
+plt.xlim([0,130])
+plt.ylabel('|P|')
+plt.xlabel('frequency (Hz)')
+plt.tight_layout()
 
 
 
