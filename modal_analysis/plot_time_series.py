@@ -26,15 +26,15 @@ D = np.loadtxt('data/timeseries_data.lvm',skiprows=23)
 tt = D[:,0]
 dd = D[:,1]
 
-plt.figure('beam data',figsize=(6.5,3))
-plt.plot(tt,dd,'-',label='data 1')
+plt.figure('beam data',figsize=(5.5,2.5))
+plt.plot(tt,dd,'-')
 plt.grid(True)
 plt.xlabel('time (s)')
 plt.ylabel('acceleration (ms$^2$)')
 plt.title('beam data')
-plt.xlim([-0.1,45])
-plt.legend(framealpha=1,loc=0)
-
+plt.xlim([3.25,4])
+# plt.savefig('figure/beamdata', dpi=300)
+# plt.savefig('figure/beamdata.pdf', dpi=300)ss
 
 
 N = tt.shape[0]
@@ -50,8 +50,10 @@ plt.grid()
 plt.xlim([0,130])
 plt.ylabel('|P|')
 plt.xlabel('frequency (Hz)')
+plt.title('FFT')
 plt.tight_layout()
-
+# plt.savefig('figure/FFT', dpi=300)
+# plt.savefig('figure/FFT.pdf', dpi=300)
 
 
 

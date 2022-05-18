@@ -46,11 +46,11 @@ plt.rcParams.update(params)
 
 file='data/FFT_data.lvm'
 
-D=np.loadtxt(file,skiprows=24)      # skiprows mean how many header i the data
+D=np.loadtxt(file,skiprows=23)      # skiprows mean how many header i the data
 #%% Plot FFT
 
 TT=D[:,0]   # frequency
-DY1=D[:,1]   # amplitude
+DY1=D[:,1]   # magnitude
 
 
 plt.rcParams.update(params)
@@ -60,9 +60,10 @@ ax.plot(TT,DY1)
 
 ax.set_title('FFT')
 plt.xlabel('frequency (Hz)')
-plt.ylabel('magnitude')
+plt.ylabel('|P|')
 # plt.yscale('symlog')
-plt.xlim(0,121)
+plt.xlim(0,130)
+plt.grid(True)
 plt.savefig('figure/FFT', dpi=300)
 plt.savefig('figure/FFT.pdf', dpi=300)
 plt.tight_layout()
@@ -70,7 +71,7 @@ plt.tight_layout()
 
 file1='data/timeseries_data.lvm'
 
-D=np.loadtxt(file1,skiprows=24)      # skiprows mean how many header i the data
+D=np.loadtxt(file1,skiprows=23)      # skiprows mean how many header i the data
 #%% Plot Input Vs Force
 
 TT=D[:,0]   # time
@@ -86,6 +87,7 @@ plt.tight_layout()
 ax.set_title('beam data')
 plt.xlabel('time (s)')
 plt.ylabel('acceleration (ms$^2$)')
+plt.xlim(3.32,4)
 plt.xlim()
 plt.savefig('figure/beamdata', dpi=300)
 plt.savefig('figure/beamdata.pdf', dpi=300)
