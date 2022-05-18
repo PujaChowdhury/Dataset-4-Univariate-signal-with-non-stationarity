@@ -14,7 +14,7 @@
 1. FFT of impulse test of beam
 2. mode 1: natural frequency is 6.62 Hz
 3. mode 2: natural frequency is 41.4 Hz
-4. mode 3: natural frequency is 116.8 Hz
+4. mode 3: natural frequency is 117.5 Hz
 
 ![plot](natural_freq.png)
 
