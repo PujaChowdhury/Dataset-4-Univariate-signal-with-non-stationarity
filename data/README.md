@@ -119,5 +119,5 @@ Figure 8: test 6.
 Figure 9: test 7.
 * [Data III](data_III)
 Table: Proposed 12 tests 
-![plot](./images/test_3.png)
+![plot](./images/Proposed_tests_12.PNG)
 
